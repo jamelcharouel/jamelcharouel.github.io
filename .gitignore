@@ -1,1 +1,4 @@
-_sites
+_drafts/
+_site/
+.DS_Store
+*.swp
