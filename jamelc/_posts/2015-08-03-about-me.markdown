@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "About Me"
+date:   2015-08-03 13:45:30
+categories: blog
+---
+
+A quick post about me.
+As of this post, I'm a rising third year/junior at the University of Virginia, currently studying Computer Science (B.S.) and liking it quite a bit. Although I've dabbled in a few different languages here and there, Java and C++ are my go-tos. I'll be posting projects I've worked on (with pictures and videos, if I have them) as soon as I figure out how to do that through jekyll. This blog is meant to be a mix of my current and past projects but also just meant to be a place for me to throw some thoughts down on whatever is on my mind at the moment.
+
+Some casual stuff about me: I like to play video games, go to the gym, play some casual soccer outside, and spend time hiking. Just last weekend I went to hike at Great Falls Park as well as Old Rag Mountain. As for video games, I'm currently playing Mortal Kombat X on Xbox One and Counter Strike: Global Offensive on the gaming PC I just built. I've also got about a million games on backlog thanks to steam sales that I'll go through eventually. If you ever wanna play anything (I'm just getting back into Team Fortress 2, too) shoot me a friend request through [my profile.] [link]
+
+[link]:     https://www.steamcommunity.com/profiles/virtualgigi
+
+Thats all for now, I'll be updating this post with more ideas and probably adding a perma-link to it at the top of my site's page at some point.
+
+
+
+--- Jamel Charouel
+
+Monday, August 3rd, 2015
