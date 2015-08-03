@@ -1,9 +1,9 @@
 # Site settings
 email: jamel.charouel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey! This is my personal website for code projects and other random stuff I think to throw on here. It's very much still a work in progress. I'm using github pages to host it and jekyll for setting everything up and making it look pretty.
+  Hey! This is my personal website for projects and other random stuff I think to throw on here. It's very much still a work in progress. I'm using github pages to host it and jekyll for setting everything up and making it look pretty.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jamelc.com" # the base hostname & protocol for your site
+url: "http://jcharouel.com" # the base hostname & protocol for your site
 twitter_username: DrTuCDeezNuts
 github_username:  jamelcharouel
 
