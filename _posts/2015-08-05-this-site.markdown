@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "This Site and Why I Chose Jekyll"
+date:   2015-08-05 12:38:45
+categories: blog
+tags: projects
+---
+
+As I began to fill this blog with my projects/ideas I realized that the most obvious one should've been this very site. Utilizing the jekyll framework to build a website (albeit a fairly simple blogging site) is something I've never done before, and its been interesting using it in tandem with HTML (also fairly new to me) to create my very own website. What I like about jekyll is that, since my site is hosted by github pages, I can edit a file directly on the repo and see that change to my site within the next few hours. This means that I don't need to install Ruby and the respective devkit on the computer I'm using at the moment. If there is some slight change or edit I realize I want to make, I can just edit the file in the github repo itself. Of course, if I want to make some serious changes it's much more ideal to install the proper utilities on the computer I'm using and start developing the site from there. But having the option to edit already existing pieces of my site is nice. 
+
+One might ask "why use jekyll, especially with other, more powerful software out there?". Well, there are a few reasons. The first is the one above, being able to simply push local changes to my remote repo and see them posted on my site within a few hours is pretty cool (although I guess a change made with wordpress would do the same). Already knowing how git/github works and understanding pushing code to a repo makes this kind of web development less foreign to me than using some new software like wordpress (which I have messed with once in like, 10th grade). Wordpress has a ton of options and features for making a site exactly like you might want it to, but there is such a thing as too much. 
+
+You might ask yourself "What exactly do I want to show on my website?"; if you want to show constantly changing data to your audience and add other dynamic elements, jekyll wouldn't be the framework for you. But if you simply want to write some blog posts and maybe throw in some images too, jekyll works quite well for that. Jekyll may not have nearly as many features as something like Wordpress, but if you don't need all of that extra stuff, then why go for the larger framework in the first place? Jekyll gets the job it does done, and it does it well and easily enough that even a true code beginner can pick it up right away. After you get the general site layout set up, the rest of the work is simply blogging away (unless you want to add custom elements to your site, such as a custom theme or additional plugins). It's sort of like the difference between the brand new, 2016 Honda Civic and the '95 model that your dad gave you when you got your license. Sure, the 2016 model might come with a bunch of new features that the older model will never have, but if all you need to do is get from your house to school or work, do you really need the newer model? 
+
+Working with jekyll to create this site over the past few days has made me realize that sometimes you don't need the biggest, baddest software out there at the moment. Just use what gets the job done without you having to read the manual ten thousand times. I'm sure there's a variation of the quote "if it ain't broke, don't fix it" that I'm grasping for.
+
+--- Jamel Charouel
+
+Wednesday, August 5th, 2015
