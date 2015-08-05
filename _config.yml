@@ -2,8 +2,8 @@
 email: jamel.charouel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey! This is my personal website for projects and other random stuff I think to throw on here. It's very much still a work in progress. I'm using github pages to host it and jekyll for setting everything up and making it look pretty.
-baseurl: "" # the subpath of your site, e.g. /blog/
-link_home: "<a href='http://jcharouel.com/'>Home</a>"
+baseurl: "http://jcharouel.com" # the subpath of your site, e.g. /blog/
+link_home: "<a href="{{ site.baseurl }}/">Home</a>"
 url: "http://jcharouel.com" # the base hostname & protocol for your site
 github_username:  jamelcharouel
 
