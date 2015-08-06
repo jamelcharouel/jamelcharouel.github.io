@@ -3,7 +3,6 @@ layout: post
 title:  "About Me"
 date:   2015-08-03 13:45:30
 categories: blog
-tags: casual
 ---
 
 A quick post about me.

@@ -3,7 +3,6 @@ layout: post
 title:  "Line-Following Robot"
 date:   2015-08-03 15:04:45
 categories: blog
-tags: projects
 ---
 
 

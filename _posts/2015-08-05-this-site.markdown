@@ -3,7 +3,6 @@ layout: post
 title:  "This Site and Why I Chose Jekyll"
 date:   2015-08-05 12:38:45
 categories: blog
-tags: projects
 ---
 
 As I began to fill this blog with my projects/ideas I realized that the most obvious one should've been this very site. Utilizing the jekyll framework to build a website (albeit a fairly simple blogging site) is something I've never done before, and its been interesting using it in tandem with HTML (also fairly new to me) to create my very own website. What I like about jekyll is that, since my site is hosted by github pages, I can edit a file directly on the repo and see that change to my site within the next few hours. This means that I don't need to install Ruby and the respective devkit on the computer I'm using at the moment. If there is some slight change or edit I realize I want to make, I can just edit the file in the github repo itself. Of course, if I want to make some serious changes it's much more ideal to install the proper utilities on the computer I'm using and start developing the site from there. But having the option to edit already existing pieces of my site is nice. 

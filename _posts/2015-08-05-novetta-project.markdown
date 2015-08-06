@@ -3,7 +3,6 @@ layout: post
 title:  "Android Building Environment Aggregator"
 date:   2015-08-05 14:10:56
 categories: blog
-tags: projects
 ---
 
 I'm just going to preface this blog post by saying I'm sort of limited in what I'm allowed to show/say, unfortunately. This app that I created over my 4 month internship was super cool, and I wish I could discuss it in major detail, but here goes.

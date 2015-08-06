@@ -3,7 +3,6 @@ layout: post
 title:  "Automated Greenhouse"
 date:   2015-08-05 11:14:36
 categories: blog
-tags: projects
 ---
 
 
