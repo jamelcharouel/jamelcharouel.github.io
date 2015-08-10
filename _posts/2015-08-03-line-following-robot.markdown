@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Line-Following Robot"
-date:   2015-08-03 15:04:45
-categories: blog
 ---
 
 
@@ -29,8 +26,6 @@ Everything was wired together using a small breadboard to keep it neat. The body
 <img src="/assets/linefollowing2.JPG" width="70%" />
 
 <img src="/assets/linefollowing3.JPG" width="70%" />
-
-
 
 --- Jamel Charouel
 

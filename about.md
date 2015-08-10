@@ -1,12 +1,21 @@
 ---
 layout: page
-title: About
-permalink: /about/
-linked_in: https://www.linkedin.com/pub/jamel-charouel/a2/739/892
+title: About Emerald
 ---
+## About
+Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-Hi!
+For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-My name is Jamel Charouel. I'm currently a rising third year/junior at the University of Virginia, studying to get my B.S. in Computer Science.  The main languages I know are Java and C++, but I'm familiar with some others that I've used on my own or a little bit in courses I've taken. I'm also quite familiar with the Android SDK and have developed a couple apps, for school and work. If you want more information on my professional background, you can find my LinkedIn profile [here](https://www.linkedin.com/pub/jamel-charouel/a2/739/892).
+![Emerald](img/Emerald01.png "Emerald")
 
-As for my hobbies/non-professional stuff about me, I like to spend my time exercising at the gym, playing video games, coding up random one-off projects, and watching plot-driven TV shows (except for its always sunny, that show is great).
+### Setup
+Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+
+After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+
+Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+
+Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+
+Enjoy!
