@@ -1,2 +1,1 @@
-# jamelcharouel.github.io
-Repo for personal website
+Repo for my personal website

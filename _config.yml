@@ -1,13 +1,31 @@
 # Site settings
-email: jamel.charouel@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hey! This is my personal website for projects and other random stuff I think to throw on here. It's very much still a work in progress. I'm using github pages to host it and jekyll for setting everything up and making it look pretty.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jcharouel.com" # the base hostname & protocol for your site
-github_username:  jamelcharouel
+title: Jamel Charouel
+description:   Hey! My name is Jamel Charouel. This is my personal website for projects and other random stuff I think to throw on here. It's very much still a work in progress. I'm using github pages to host it and jekyll for setting everything up and making it look pretty.
+url: "http://www.jcharouel.com"
 
 # Build settings
+baseurl: "/" # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+github_username:  jamelcharouel
 
-gems:
-- jekyll-redirect-from
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false

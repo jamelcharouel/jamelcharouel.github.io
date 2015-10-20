@@ -1,9 +1,5 @@
 ---
-layout: post
 title:  "Android Building Environment Aggregator"
-date:   2015-08-05 14:10:56
-categories: blog
-tags: projects
 ---
 
 I'm just going to preface this blog post by saying I'm sort of limited in what I'm allowed to show/say, unfortunately. This app that I created over my 4 month internship was super cool, and I wish I could discuss it in major detail, but here goes.
@@ -26,8 +22,6 @@ Took whiteboard ideas through the research, design, development, and marketing p
 The application was developed for Android version 4.2+ and used Google maps and other libraries such as Otto for event broadcasting/subscribing, Picasso for image loading, and Rajawali for 3D model rendering. The development methodology was Agile based using Atlassian Jira boards and Bitbucket with git for version control.
 
 Learned about various Android framework components and design patterns such as activities, fragments, application database structure, intents, threads, publish/subscribe pattern, file IO, activity/fragment lifecycle, using adb to view, push, and pull files, testing with the Genymotion emulator and actual devices of various sizes, material design, and Android UI/UX methodologies.
-
-
 
 
 --- Jamel Charouel
