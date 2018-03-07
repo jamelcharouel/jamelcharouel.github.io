@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "It's Been A While, Pt. 2"
-date:   2017-08-01 12:17 PM
+title:  "The Raspberry Pi"
+date:   2018-01-06 8:57 PM
 categories: projects
 tags: personal, projects, rasperry, pi, sonarr, radarr, pihole
 ---
