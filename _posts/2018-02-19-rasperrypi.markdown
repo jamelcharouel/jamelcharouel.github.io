@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Raspberry Pi"
-date:   2018-01-06 8:57 PM
+date:   2018-03-06 8:57 PM
 categories: projects
 tags: personal, projects, rasperry, pi, sonarr, radarr, pihole
 ---
@@ -20,4 +20,4 @@ tags: personal, projects, rasperry, pi, sonarr, radarr, pihole
 
 --- Jamel Charouel
 
-Tuesday, August 1st, 2017
+Tuesday, March 6th, 2018
